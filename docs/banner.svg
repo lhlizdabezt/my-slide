@@ -44,6 +44,6 @@
         </path>
       </g>
          <text text-anchor="middle" alignment-baseline="middle" x="50%" y="38%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >my-slide</text>
-        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="62%" class="desc" style="fill:#ffffff;">AI-Native Slide Workspace � Built on @open-slide/core � 1920�1080 React Canvas</text>
+        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="62%" class="desc" style="fill:#ffffff;">AI-Native Slide Workspace - Built on @open-slide/core - 1920x1080 React Canvas</text>
       </svg>
     
