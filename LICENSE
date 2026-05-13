@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2026 Lương Hải Long (22207056)
+
+ATTRIBUTION NOTICE
+==================
+This workspace is scaffolded from the open-source framework `open-slide`:
+
+    Original framework:  https://github.com/1weiho/open-slide
+    Author:              Yiwei Ho (@1weiho)
+    License:             MIT
+
+The following files originate from the upstream scaffolder template
+(`@open-slide/cli` v1.1.1) and remain copyright (c) 2026 Yiwei Ho under
+the original MIT terms:
+
+    - AGENTS.md
+    - CLAUDE.md
+    - .claude/skills/*
+    - .agents/skills/*
+    - slides/getting-started/index.tsx              (demo deck)
+    - slides/getting-started/assets/*.svg           (brand logos)
+    - open-slide.config.ts
+    - netlify.toml, vercel.json                     (deploy presets)
+    - tsconfig.json
+    - package.json                                  (scripts + deps)
+
+Brand SVGs in `slides/getting-started/assets/` (Claude, OpenAI, Gemini,
+Opencode, Vercel, Cloudflare, Zeabur) are trademarks of their respective
+owners and are mirrored from the original scaffolder template for demo
+purposes only. They are NOT redistributed under MIT — please consult each
+brand's trademark policy before reusing them in your own decks.
+
+The README.md, docs/banner.svg and any custom slides authored under
+`slides/<other-id>/` are © 2026 Lương Hải Long, distributed under MIT
+below.
+
+----------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
