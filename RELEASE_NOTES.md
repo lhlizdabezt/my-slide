@@ -1,17 +1,18 @@
-# English Portfolio Refresh
-
-## Main updates
-
-- Rewrote the public README in English for HR and engineering review.
-- Standardized the repository summary, reviewer map, evidence highlights, scope boundaries and release/tag links.
-- Preserved an evidence-first tone: clear technical nouns, bounded claims and no production ownership beyond the repository material.
-
-## Repository evidence
-
-- 1920x1080 canvas deck structure.
-- React, Vite and TypeScript project scaffold.
-- Static export and deployment practice for Vercel/Netlify-style workflows.
+# English Visual Portfolio Refresh - 2026-06-02
 
 ## Scope
 
-Workspace and experimentation repository. It is not presented as the upstream open-slide framework itself.
+This refresh keeps `my-slide` aligned with an English-facing engineering portfolio for HR and technical review.
+
+## Changes
+
+- Added an ASCII-safe animated SVG visual under `assets/portfolio-motion.svg`.
+- Embedded the visual in `README.md` for immediate GitHub rendering.
+- Standardized Markdown and binary asset handling through `.gitattributes`.
+- Kept the repository description evidence-first and scoped to: Presentation workspace.
+
+## Review Context
+
+Primary stack: React, Vite, TypeScript, open-slide, static export.
+
+The repository remains bounded to its real artifacts and does not claim production ownership beyond what the source tree, reports, code or release assets can support.
